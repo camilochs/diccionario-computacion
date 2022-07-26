@@ -1,1 +1,2 @@
 - [[Bloqueo mutuo]]
+- **Deadlock** $\nearrow$ Véase
