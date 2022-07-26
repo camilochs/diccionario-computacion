@@ -5,11 +5,11 @@
 - **Autor**: [Camilo Chacón Sartori](https://camilochs.github.io/web/)
 - **Ejemplos de términos definidos:**
 	- [[Hoare, Charles Antony Richard]]
+	- [[Lógica difusa]]
 	- [[Bloqueo mutuo]]
 	- [[Máquina de Turing]]
 	- [[Sistemas distribuidos]]
 	- [[Algoritmo]]
-	- [[Lógica difusa]]
 	- [[Sistema operativo]]
 	- [[Base de datos]]
 # Índice
