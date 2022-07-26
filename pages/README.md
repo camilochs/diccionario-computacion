@@ -37,14 +37,20 @@
   |:--:|
   | Figura 1 - Un octágono que muestra las diez subáreas tratadas en el diccionario según su nivel de importancia. El nodo central es CC que significa ciencia de la computación. |
 - 1. AL (Algoritmos y complejidad): Técnicas, análisis y complejidad de los algoritmos.
+  
   2. AR (Arquitectura y organización): Representación y organización de los datos, a bajo nivel, en un ordenador.
+  
   3. (Estructuras discretas): Estructuras de información finitas. Estructuras de datos y conceptos desde las matemáticas discretas, fundamentales en la informática.
+  
   4. GI (Gestión de la información): Sistema de modelado y almacenamiento de datos (bases de datos).
   5. SI (Sistemas inteligentes): Sistemas de optimización, probabilista y heurísticas, para resolver problemas complejos.
   6. RC (Redes y comunicación): Comunicación entre ordenadores a través de la red, y cómo es tratada la información que es trasmitida.
   7. SO (Sistemas operativos): Funcionamiento, organización y seguridad de los sistemas operativos.
+  
   8. PD (Computación paralela y distribuida): Estudio de sistemas que hacen uso de los recursos del cpu (múltiples núcleos) y que trabajan de manera distribuida.
+  
   9. LP (Lenguajes de programación): Sobre los lenguajes de programación existente, además del estudio de su diseño e implementación. 
+  
   10. IS (Ingeniería de software): Requerimientos, metodología, principios y evaluación de un proyecto de software.
   
   
