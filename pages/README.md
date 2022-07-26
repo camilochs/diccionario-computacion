@@ -35,7 +35,8 @@
   
   |  ![Blank diagram - Copy of Page 10.png](../assets/Blank_diagram_-_Copy_of_Page_10_1658845548315_0.png) |
   |:--:|
-  | <b> Figure 1 - 4K Mountains Wallpaper</b>|
+  
+  | <b> Figure 1 - Un octágono que muestra las diez subáreas tratadas en el diccionario según su nivel de importancia. Donde el nodo central es CC, que significa ciencia de la computación.</b> |
 -
 - 1. GI (Gestión de la información): Sistema de modelado y almacenamiento de datos (bases de datos).
   <br />
