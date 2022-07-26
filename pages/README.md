@@ -8,18 +8,11 @@
 	   :query [:find (pull ?p [*])
 	           :where
 	           [?p :block/name ?name]
-	       [(=  ?name "a")]
-	       [(=  ?name "b")]	
-	       [(=  ?name "c")] 
-	       [(=  ?name "d")]
-	       [(=  ?name "e")]
-	       [(=  ?name "f")]
-	       [(=  ?name "g")]
-	       [(=  ?name "h")]
-	       [(=  ?name "i")]
-	  [(=  ?name "j")]
+	       [(or  (= ?name "a") (= ?name "b") )]
 	  ]}
 	  #+END_QUERY
+	-
+	-
 	-
 	-
 	-
