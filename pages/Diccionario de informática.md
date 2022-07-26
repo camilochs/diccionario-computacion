@@ -1,3 +1,5 @@
+public:: true
+
 - Autor: [Camilo Chacón Sartori](https://camilochs.github.io/web/)
 - # Índice
 	- ### [Mapa visual](https://hypernotes.zenkit.com/outline-graph/Oadml_oP0e/)
