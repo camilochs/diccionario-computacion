@@ -30,7 +30,7 @@ public:: true
   
   El área que cubre la informática es vasta y rica; y está compuesta por un corpus de conocimientos dividido en subáreas. De ahí que, a continuación definimos ---brevemente--- las cubiertas en este diccionario. Todas ellas han sido definidas previamente por ACM <sup><a name="acm">1</a></sup>, en su informe «Curricula 2013» (que presenta las recomendaciones para la enseñanza de la informática) <sup><a name="acm_curricula">2</a></sup>.
   
-  ![Blank_diagram_-_Copy_of_Page_10.png](https://hypernotes.zenkit.com/api/v1/lists/2363520/files/aJfOg66N4)
+  ![Blank diagram - Copy of Page 10.png](../assets/Blank_diagram_-_Copy_of_Page_10_1658845548315_0.png) 
   1. GI (Gestión de la información): Sistema de modelado y almacenamiento de datos (bases de datos).
   <br />
   2. SI (Sistemas inteligentes): Sistemas de optimización, probabilista y heurísticas, para resolver problemas complejos.
