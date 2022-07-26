@@ -2,24 +2,28 @@
 - Un diccionario de computación en español. (En proceso.)
 - Autor: [Camilo Chacón Sartori](https://camilochs.github.io/web/)
 # Índice
-	- #+BEGIN_QUERY
-	  query-properties:: [:page]
+	- query-properties:: [:page]
+	  #+BEGIN_QUERY 
 	  {:title "Todas las entradas que comienzan con Q"
 	   :query [:find (pull ?p [*])
-	           :where 
+	           :where
 	           [?p :block/name ?name]
 	       [(=  ?name "a")]
-	       [(=  ?name "a")]	
-	       [(=  ?name "a")] 
-	       [(=  ?name "a")]
-	       [(=  ?name "a")]
-	       [(=  ?name "a")]
-	       [(=  ?name "a")]
-	       [(=  ?name "a")]
-	       [(=  ?name "a")]
-	- [(=  ?name "a")]
-	- ]}
-	- #+END_QUERY
+	       [(=  ?name "b")]	
+	       [(=  ?name "c")] 
+	       [(=  ?name "d")]
+	       [(=  ?name "e")]
+	       [(=  ?name "f")]
+	       [(=  ?name "g")]
+	       [(=  ?name "h")]
+	       [(=  ?name "i")]
+	  [(=  ?name "j")]
+	  ]}
+	  #+END_QUERY
+	-
+	-
+	-
+	-
 	-
 	-
 	-
