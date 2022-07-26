@@ -7,10 +7,16 @@
 	   :query [:find (pull ?p [*])
 	           :where 
 	           [?p :block/name ?name]
-	       [(count ?name 1)]
+	       [(= (len? ?name 1))]
 	  	 ]
 	  }
 	  #+END_QUERY
+	-
+	-
+	-
+	-
+	-
+	-
 	-
 	-
 	- ### [Mapa visual](https://hypernotes.zenkit.com/outline-graph/Oadml_oP0e/)
