@@ -9,13 +9,8 @@ query-properties:: [:page]
 [(!= ?name "contents")]
      [(!= ?name "card")]
      [(!= ?name "canceled")]
-	 ]
+     [(!= ?name "cancelled")]	 ]
 }
 #+END_QUERY
 
--
--
--
--
--
 -

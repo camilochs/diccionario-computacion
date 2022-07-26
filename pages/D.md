@@ -12,5 +12,3 @@ query-properties:: [:page]
 	 ]
 }
 #+END_QUERY
-
--
