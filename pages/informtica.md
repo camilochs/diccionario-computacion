@@ -1,2 +1,1 @@
-# informática
-
+- # computación

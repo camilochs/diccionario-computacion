@@ -3,4 +3,4 @@
 - [[Implementación]]
 - interoperabilidad
 - imperativo
-- informática
+- computación
