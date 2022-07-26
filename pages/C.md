@@ -1,2 +1,3 @@
 - [[Computador]]
+- [[Computación]]
 - [[CSP]]
