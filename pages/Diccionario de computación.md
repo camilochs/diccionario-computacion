@@ -26,19 +26,19 @@
 	  | [[M]] | [[N]]  | [[O]] | [[P]] | [[Q]] | [[R]] |
 	  | [[S]] | [[T]]  | [[U]] | [[V]] | [[W]] | [[X]] |
 	  | [[Y]] | [[Z]]  |
-# Introducción
-
-No existe un diccionario de computación en español que defina de manera precisa y rigurosa los términos más usados en la actualidad. Por este motivo nos hemos puesto manos a la obra para que este proyecto sea lo más amplio y renovado posible, sin olvidar las limitaciones de páginas que nos da un libro.
-
-Un diccionario es por definición una obra _incompleta_ porque cada cierto tiempo surgen nuevos términos y otros son enviados al baúl de los recuerdos. Pese a todo, su importancia sigue siendo relevante para comprender el significado de los conceptos que, en muchas ocasiones, usamos de manera inexacta y confusa. En particular, en la computación que vive en una constante evolución. Es, entonces, este diccionario un proyecto dinámico.
-
-La computación es un área que trata del estudio de los ordenadores y de métodos formales de cómputo para manejar la información, que surgió en la primera mitad del siglo XX. A pesar de ser un área relativamente nueva, su desarrollo ha sufrido una vertiginosa aceleración en todo el mundo; gracias a los avances de la tecnología podemos encontrar ordenadores en todos lados, y que a través del desarrollo de software le da vida a estos artefactos. Además, ha beneficiado a otras áreas del conocimiento, como por ejemplo, las ciencias naturales y humanidades; reduciendo los tiempos en sus experimentos y permitiendo analizar cuestiones que antes eran impracticables.
-
-El área que cubre la computación es vasta y rica; y está compuesta por un corpus de conocimientos dividido en subáreas. De ahí que, a continuación definimos —brevemente— las cubiertas en este diccionario. Todas ellas han sido definidas previamente por ACM <sup><a name="acm">1</a></sup>, en su informe «Curricula 2013» (que presenta las recomendaciones para la enseñanza de la computación) <sup><a name="acm_curricula">2</a></sup>.
-
-| ![Blank diagram - Copy of Page 10 (2).png](../assets/Blank_diagram_-_Copy_of_Page_10_(2)_1658864275866_0.png){:height 333, :width 684} |
-|:--:|
-| Figura 1 - Un octágono que muestra las diez subáreas tratadas en el diccionario según su nivel de importancia. El nodo central es CC que significa ciencia de la computación. |
+- # Introducción
+  
+  No existe un diccionario de computación en español que defina de manera precisa y rigurosa los términos más usados en la actualidad. Por este motivo nos hemos puesto manos a la obra para que este proyecto sea lo más amplio y renovado posible, sin olvidar las limitaciones de páginas que nos da un libro.
+  
+  Un diccionario es por definición una obra _incompleta_ porque cada cierto tiempo surgen nuevos términos y otros son enviados al baúl de los recuerdos. Pese a todo, su importancia sigue siendo relevante para comprender el significado de los conceptos que, en muchas ocasiones, usamos de manera inexacta y confusa. En particular, en la computación que vive en una constante evolución. Es, entonces, este diccionario un proyecto dinámico.
+  
+  La computación es un área que trata del estudio de los ordenadores y de métodos formales de cómputo para manejar la información, que surgió en la primera mitad del siglo XX. A pesar de ser un área relativamente nueva, su desarrollo ha sufrido una vertiginosa aceleración en todo el mundo; gracias a los avances de la tecnología podemos encontrar ordenadores en todos lados, y que a través del desarrollo de software le da vida a estos artefactos. Además, ha beneficiado a otras áreas del conocimiento, como por ejemplo, las ciencias naturales y humanidades; reduciendo los tiempos en sus experimentos y permitiendo analizar cuestiones que antes eran impracticables.
+  
+  El área que cubre la computación es vasta y rica; y está compuesta por un corpus de conocimientos dividido en subáreas. De ahí que, a continuación definimos —brevemente— las cubiertas en este diccionario. Todas ellas han sido definidas previamente por ACM <sup><a name="acm">1</a></sup>, en su informe «Curricula 2013» (que presenta las recomendaciones para la enseñanza de la computación) <sup><a name="acm_curricula">2</a></sup>.
+  
+  | ![Blank diagram.png](../assets/Blank_diagram_1658865364792_0.png) |
+  |:--:|
+  | Figura 1 - Un octágono que muestra las diez subáreas tratadas en el diccionario según su nivel de importancia. El nodo central es CC que significa ciencia de la computación. |
 - 1. AL (Algoritmos y complejidad): Técnicas, análisis y complejidad de los algoritmos.
   
   2. AR (Arquitectura y organización): Representación y organización de los datos, a bajo nivel, en un ordenador.
