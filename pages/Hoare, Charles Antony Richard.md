@@ -2,7 +2,7 @@
   
   Lideró el equipo que creo el primer compilador comercial de [[ALGOL-60]] para la empresa Elliot Brothers, su primera versión apareció durante 1962; para este trabajo —en 1961—, y como anécdota, él asistió junto a su equipo a un curso de capacitación en ALGOL-60, los instructores fueron: [[Landin, Peter]], [[Dijkstra, Edsger W.]] y [[Naur, Peter]] los dos últimos también ganadores del [[Premio Turing]]).
   
-  Sus trabajos se centran en la [[Verificación formal]] desoftware_. La cual busca axiomatizar el diseño del_software_para reducir los errores; en la actualidad, muchas de sus ideas se han incorporado en la industria, en particular, de sistemas concurrentes que requieran una alta fiabilidad. Ha recibido múltiples premios, entre ellos, el premio Turing en 1980.
+  Sus trabajos se centran en la [[Verificación formal]] de *software*. La cual busca axiomatizar el diseño del *software* para reducir los errores; en la actualidad, muchas de sus ideas se han incorporado en la industria, en particular, de sistemas concurrentes que requieran una alta fiabilidad. Ha recibido múltiples premios, entre ellos, el premio Turing en 1980.
 -
 - Obras principales:
 	- Hoare, C. A. R. “Algorithm 64: Quicksort.” Communications of the ACM, vol. 4, no. 7, July 1961, p. 321. DOI.org (Crossref), doi:10.1145/366622.366644.
