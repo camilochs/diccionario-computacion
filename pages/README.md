@@ -2,7 +2,6 @@
 - Un diccionario de computación en español. (En proceso.)
 - Autor: [Camilo Chacón Sartori](https://camilochs.github.io/web/)
 # Índice
-	- ### [Mapa visual]([[(/graph]]
 	- <style>
 	   table {
 	       width: 100%;
