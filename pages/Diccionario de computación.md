@@ -73,7 +73,7 @@
   2. Por la innegable influencia del inglés en la literatura de la computación es que, al lado de cada término, se encuentra entre paréntesis su traducción —en cursiva—, por ejemplo: «**Sistemas distribuidos** (_Distribuited System_)».
   
   
-  3. Existen términos que no cuentan con una traducción arraigada al español; no obligaremos al lector a conocer un término en español en caso de no saberlo (pero si le indicaremos cuál es su traducción). Por ello, a un término en inglés agregaremos donde sea necesario la referencia a su traducción al español, en versalita y precedido del signo «\nearrow$». Por ejemplo: «**Deadlock** \nearrow$ Véase Bloqueo mutuo».
+  3. Existen términos que no cuentan con una traducción arraigada al español; no obligaremos al lector a conocer un término en español en caso de no saberlo (pero si le indicaremos cuál es su traducción). Por ello, a un término en inglés agregaremos donde sea necesario la referencia a su traducción al español, en versalita y precedido del signo «$\nearrow$». Por ejemplo: «**Deadlock** $\nearrow$ Véase Bloqueo mutuo».
   
   
   4. En otras circunstancias donde un término esté tan extendido en inglés y la traducción no tenga ni uso ni razón, entonces no añadiremos una referencia al término en español, aunque si estará su traducción. Para indicar esta 
