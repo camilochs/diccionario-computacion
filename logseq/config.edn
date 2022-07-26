@@ -217,6 +217,7 @@
  :feature/enable-journals? false
  :default-home {:page "Diccionario de computación"}
  :publishing/all-pages-public? true
+ :feature/enable-flashcards? false
 
  ;; Properties to exclude from having property pages
  ;; E.g. #{:duration :author}
