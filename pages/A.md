@@ -3,8 +3,9 @@
 - [[Algoritmo]]
 - [[Aplicación]]
 - [[ALGOL-60]]
-- #+BEGIN_QUERY
-  {:title "Pages that start with abc"
+- query-properties:: [:page]
+  #+BEGIN_QUERY
+  {:title "Todas las entradas que comienzan con A"
    :query [:find (pull ?p [*])
            :where 
            [?p :block/name ?name]
