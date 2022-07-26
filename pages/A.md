@@ -3,14 +3,16 @@
 - [[Algoritmo]]
 - [[Aplicación]]
 - [[ALGOL-60]]
-- {{query *#+BEGIN_QUERY*
+- #+BEGIN_QUERY
   {:title "Pages that start with abc"
    :query [:find (pull ?p [*])
            :where 
            [?p :block/name ?name]
-           [(clojure.string/starts-with? ?name "abc")]]
+           [(clojure.string/starts-with? ?name "a")]]
   }
-  *#+END_QUERY*}}
+  #+END_QUERY
+-
+-
 -
 -
 -
