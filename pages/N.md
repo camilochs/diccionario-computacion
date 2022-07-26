@@ -1,2 +1,13 @@
-# N
-- [[Naur, Peter]]
+query-properties:: [:page]
+#+BEGIN_QUERY
+{:title "Todas las entradas que comienzan con N"
+ :query [:find (pull ?p [*])
+         :where 
+         [?p :block/name ?name]
+	 [(clojure.string/starts-with? ?name "n")]
+     [(!= ?name "n")]
+	 ]
+}
+#+END_QUERY
+
+-
