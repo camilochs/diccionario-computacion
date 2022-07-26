@@ -6,6 +6,7 @@ query-properties:: [:page]
          [?p :block/name ?name]
 	 [(clojure.string/starts-with? ?name "r")]
      [(!= ?name "r")]
+     [(!= ?name "readme")]
 	 ]
 }
 #+END_QUERY
