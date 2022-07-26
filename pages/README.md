@@ -1,7 +1,10 @@
 - # Diccionario de computación
+## Aviso
+	- <p style="color:red"> Este diccionario se encuentra en desarrollo.</p>
+-
 - Un diccionario de computación en español. (En proceso.)
-- Autor: [Camilo Chacón Sartori](https://camilochs.github.io/web/)
-- Ejemplos de términos definidos:
+- **Autor**: [Camilo Chacón Sartori](https://camilochs.github.io/web/)
+- **Ejemplos de términos definidos:**
 	- [[Hoare, Charles Antony Richard]]
 	- [[Máquina de Turing]]
 	- [[Sistemas distribuidos]]
@@ -24,8 +27,6 @@
 	  | [[M]] | [[N]]  | [[O]] | [[P]] | [[Q]] | [[R]] |
 	  | [[S]] | [[T]]  | [[U]] | [[V]] | [[W]] | [[X]] |
 	  | [[Y]] | [[Z]]  |
-## Aviso
-	- <p style="color:red"> Este diccionario se encuentra en desarrollo.</p>
 - # Introducción
   
   No existe un diccionario de computación en español que defina de manera precisa y rigurosa los términos más usados en la actualidad. Por este motivo nos hemos puesto manos a la obra para que este proyecto sea lo más amplio y renovado posible, sin olvidar las limitaciones de páginas que nos da un libro.
