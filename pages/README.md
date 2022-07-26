@@ -8,7 +8,7 @@
 	   :query [:find (pull ?p [*])
 	           :where
 	           [?p :block/name ?name]
-	       [(or  (= ?name "a") (= ?name "b") )]
+	       [(= (count)(= ?name "b") )]
 	  ]}
 	  #+END_QUERY
 	-
