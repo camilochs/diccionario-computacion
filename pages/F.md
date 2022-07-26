@@ -1,4 +1,4 @@
-- [[función computable]]
+- [[Función computable]]
 - #+BEGIN_QUERY
   {:title "Todas las entradas que comienzan con F"
    :query [:find (pull ?p [*])
@@ -6,6 +6,9 @@
            [?p :block/name ?name]
   	 [(clojure.string/starts-with? ?name "f")]
            
+       [(!= ?name "f")]
+       [(!= ?name "favorites")]
   	 ]
   }
   #+END_QUERY
+-
