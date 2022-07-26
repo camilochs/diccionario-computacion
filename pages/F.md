@@ -1,2 +1,1 @@
-# F
 - [[función computable]]
