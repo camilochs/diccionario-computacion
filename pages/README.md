@@ -23,45 +23,46 @@
 	  | [[Y]] | [[Z]]  |
 ## Aviso
 	- <p style="color:red"> Este diccionario se encuentra en desarrollo.</p>
-# Introducción
-
-No existe un diccionario de computación en español que defina de manera precisa y rigurosa los términos más usados en la actualidad. Por este motivo nos hemos puesto manos a la obra para que este proyecto sea lo más amplio y renovado posible, sin olvidar las limitaciones de páginas que nos da un libro.
-
-Un diccionario es por definición una obra _incompleta_ porque cada cierto tiempo surgen nuevos términos y otros son enviados al baúl de los recuerdos. Pese a todo, su importancia sigue siendo relevante para comprender el significado de los conceptos que, en muchas ocasiones, usamos de manera inexacta y confusa. En particular, en la computación que vive en una constante evolución. Es, entonces, este diccionario un proyecto dinámico.
-
-La computación es un área que trata del estudio de los ordenadores y de métodos formales de cómputo para manejar la información, que surgió en la primera mitad del siglo XX. A pesar de ser un área relativamente nueva, su desarrollo ha sufrido una vertiginosa aceleración en todo el mundo; gracias a los avances de la tecnología podemos encontrar ordenadores en todos lados, y que a través del desarrollo de software le da vida a estos artefactos. Además, ha beneficiado a otras áreas del conocimiento, como por ejemplo, las ciencias naturales y humanidades; reduciendo los tiempos en sus experimentos y permitiendo analizar cuestiones que antes eran impracticables.
-
-El área que cubre la computación es vasta y rica; y está compuesta por un corpus de conocimientos dividido en subáreas. De ahí que, a continuación definimos —brevemente— las cubiertas en este diccionario. Todas ellas han sido definidas previamente por ACM <sup><a name="acm">1</a></sup>, en su informe «Curricula 2013» (que presenta las recomendaciones para la enseñanza de la computación) <sup><a name="acm_curricula">2</a></sup>.
-
-![Blank diagram - Copy of Page 10.png](../assets/Blank_diagram_-_Copy_of_Page_10_1658845548315_0.png) 
-1. GI (Gestión de la información): Sistema de modelado y almacenamiento de datos (bases de datos).
-<br />
-2. SI (Sistemas inteligentes): Sistemas de optimización, probabilista y heurísticas, para resolver problemas complejos.
-<br />
-3. RC (Redes y comunicación): Comunicación entre ordenadores a través de la red, y cómo es tratada la información que es trasmitida.
-<br />
-4. SO (Sistemas operativos): Funcionamiento, organización y seguridad de los sistemas operativos.
-<br />
-5. PD (Computación paralela y distribuida): Estudio de sistemas que hacen uso de los recursos del cpu (múltiples núcleos) y que trabajan de manera distribuida.
-<br />
-6. LP (Lenguajes de programación): Sobre los lenguajes de programación existente, además del estudio de su diseño e implementación. 
-<br />
-7. IS (Ingeniería de software): Requerimientos, metodología, principios y evaluación de un proyecto de software.
-
-
-En la figura {fig:areas} se puede ver un esquema general de estas subáreas según su nivel de importancia; a mayor nivel de importancia más términos existirán en este diccionario para esa subárea, lo mismo, en caso contrario. Así por ejemplo, el área de algoritmos y complejidad (AR) que es nuclear en la computación tiene una importancia alta; un caso contrario sería redes y comunicación (RC) que tiene menor importancia. Esta clasificación no es arbitraria. Nos basamos en la cantidad de horas recomendadas por ACM para todo el corpus de conocimiento de la computación ---las cuales son definidas por las tendencias actuales---. No obstante, es preciso decir que ello no es algo estático, por el contrario, a medida que la computación va progresando esto cambiaría en el futuro. Ya sea alterando la distribución de importancia, o, en cambio, añadiendo o eliminando subáreas.
-
-Cabe señalar que hay subáreas que no fueron añadidas, por ejemplo: inteligencia artificial, ciberseguridad y computación cuántica. Las primeras dos porque son muy extensas y cada una de ellas, podría tener su propio diccionario; la última se encuentra todavía en desarrollo, aunque se han incorporado algunos términos en la subárea de AL (por ejemplo, los principales algoritmos cuánticos). Aunque ello no significa que no existan términos relacionados con esas tres áreas en el diccionario. En pos de clarificar, lo que queremos decir es que, la cantidad de términos será mucho menor que el corpus mencionado anteriormente.
-
-Para organizar un diccionario de esta índole es fundamental contar con un cuerpo de conocimiento. No solo para clasificar cada término, sino, para añadir o reducir términos en un futuro. Nos entrega una dirección de trabajo a nosotros mismos sobre lo que debemos y no incorporar.
-
-Igualmente, cuando decidimos comenzar con el diccionario nos pusimos como misión llenar un vació en los aspectos históricos de la computación, sobre todo, teniendo en cuenta que no son cuestiones que se explican con la profundidad necesaria en la universidad. Así pues, hemos agregado la biografías de hombres y mujeres que han sido un aporte indispensable a la computación. Esperamos que ello le enriquezca aún más la lectura de esta obra.
-
-En suma, este diccionario puede servir de apoyo a académicos que dictan cursos sobre diversas temáticas dentro de la computación; también para desarrolladores de software que quieran conocer definiciones precisas a algunos términos que, desconocen o tienen una vaga idea de qué trata; y, a personas con inclinaciones históricas, que aspiren a conocer a las personas que dieron forma a esta área. No obstante, puede ser de suma utilidad a cualquier persona curiosa que quiera penetrar el mundo de la computación.
-
-
-<sup>[1](#acm)  _Association for Computing Machinery_, la organización más importante de la computación a nivel mundial.</sup>
-<sup>[2](#acm_curricua)  https://dl.acm.org/doi/book/10.1145/2534860.</sup>
+- # Introducción
+  
+  No existe un diccionario de computación en español que defina de manera precisa y rigurosa los términos más usados en la actualidad. Por este motivo nos hemos puesto manos a la obra para que este proyecto sea lo más amplio y renovado posible, sin olvidar las limitaciones de páginas que nos da un libro.
+  
+  Un diccionario es por definición una obra _incompleta_ porque cada cierto tiempo surgen nuevos términos y otros son enviados al baúl de los recuerdos. Pese a todo, su importancia sigue siendo relevante para comprender el significado de los conceptos que, en muchas ocasiones, usamos de manera inexacta y confusa. En particular, en la computación que vive en una constante evolución. Es, entonces, este diccionario un proyecto dinámico.
+  
+  La computación es un área que trata del estudio de los ordenadores y de métodos formales de cómputo para manejar la información, que surgió en la primera mitad del siglo XX. A pesar de ser un área relativamente nueva, su desarrollo ha sufrido una vertiginosa aceleración en todo el mundo; gracias a los avances de la tecnología podemos encontrar ordenadores en todos lados, y que a través del desarrollo de software le da vida a estos artefactos. Además, ha beneficiado a otras áreas del conocimiento, como por ejemplo, las ciencias naturales y humanidades; reduciendo los tiempos en sus experimentos y permitiendo analizar cuestiones que antes eran impracticables.
+  
+  El área que cubre la computación es vasta y rica; y está compuesta por un corpus de conocimientos dividido en subáreas. De ahí que, a continuación definimos —brevemente— las cubiertas en este diccionario. Todas ellas han sido definidas previamente por ACM <sup><a name="acm">1</a></sup>, en su informe «Curricula 2013» (que presenta las recomendaciones para la enseñanza de la computación) <sup><a name="acm_curricula">2</a></sup>.
+  
+  ![Blank diagram - Copy of Page 10.png](../assets/Blank_diagram_-_Copy_of_Page_10_1658845548315_0.png)
+-
+- 1. GI (Gestión de la información): Sistema de modelado y almacenamiento de datos (bases de datos).
+  <br />
+  2. SI (Sistemas inteligentes): Sistemas de optimización, probabilista y heurísticas, para resolver problemas complejos.
+  <br />
+  3. RC (Redes y comunicación): Comunicación entre ordenadores a través de la red, y cómo es tratada la información que es trasmitida.
+  <br />
+  4. SO (Sistemas operativos): Funcionamiento, organización y seguridad de los sistemas operativos.
+  <br />
+  5. PD (Computación paralela y distribuida): Estudio de sistemas que hacen uso de los recursos del cpu (múltiples núcleos) y que trabajan de manera distribuida.
+  <br />
+  6. LP (Lenguajes de programación): Sobre los lenguajes de programación existente, además del estudio de su diseño e implementación. 
+  <br />
+  7. IS (Ingeniería de software): Requerimientos, metodología, principios y evaluación de un proyecto de software.
+  
+  
+  En la figura {fig:areas} se puede ver un esquema general de estas subáreas según su nivel de importancia; a mayor nivel de importancia más términos existirán en este diccionario para esa subárea, lo mismo, en caso contrario. Así por ejemplo, el área de algoritmos y complejidad (AR) que es nuclear en la computación tiene una importancia alta; un caso contrario sería redes y comunicación (RC) que tiene menor importancia. Esta clasificación no es arbitraria. Nos basamos en la cantidad de horas recomendadas por ACM para todo el corpus de conocimiento de la computación ---las cuales son definidas por las tendencias actuales---. No obstante, es preciso decir que ello no es algo estático, por el contrario, a medida que la computación va progresando esto cambiaría en el futuro. Ya sea alterando la distribución de importancia, o, en cambio, añadiendo o eliminando subáreas.
+  
+  Cabe señalar que hay subáreas que no fueron añadidas, por ejemplo: inteligencia artificial, ciberseguridad y computación cuántica. Las primeras dos porque son muy extensas y cada una de ellas, podría tener su propio diccionario; la última se encuentra todavía en desarrollo, aunque se han incorporado algunos términos en la subárea de AL (por ejemplo, los principales algoritmos cuánticos). Aunque ello no significa que no existan términos relacionados con esas tres áreas en el diccionario. En pos de clarificar, lo que queremos decir es que, la cantidad de términos será mucho menor que el corpus mencionado anteriormente.
+  
+  Para organizar un diccionario de esta índole es fundamental contar con un cuerpo de conocimiento. No solo para clasificar cada término, sino, para añadir o reducir términos en un futuro. Nos entrega una dirección de trabajo a nosotros mismos sobre lo que debemos y no incorporar.
+  
+  Igualmente, cuando decidimos comenzar con el diccionario nos pusimos como misión llenar un vació en los aspectos históricos de la computación, sobre todo, teniendo en cuenta que no son cuestiones que se explican con la profundidad necesaria en la universidad. Así pues, hemos agregado la biografías de hombres y mujeres que han sido un aporte indispensable a la computación. Esperamos que ello le enriquezca aún más la lectura de esta obra.
+  
+  En suma, este diccionario puede servir de apoyo a académicos que dictan cursos sobre diversas temáticas dentro de la computación; también para desarrolladores de software que quieran conocer definiciones precisas a algunos términos que, desconocen o tienen una vaga idea de qué trata; y, a personas con inclinaciones históricas, que aspiren a conocer a las personas que dieron forma a esta área. No obstante, puede ser de suma utilidad a cualquier persona curiosa que quiera penetrar el mundo de la computación.
+  
+  
+  <sup>[1](#acm)  _Association for Computing Machinery_, la organización más importante de la computación a nivel mundial.</sup>
+  <sup>[2](#acm_curricua)  https://dl.acm.org/doi/book/10.1145/2534860.</sup>
 - ---
 # Advertencia sobre el uso
 
