@@ -6,5 +6,5 @@
   A través de este trabajo, Turing estableció los límites de lo que es posible computar o no, o sea, los límites de lo que hoy en día conocemos como [[Algoritmo]]. [[Davis, Martin]], teórico de la computación, en su libro «The Universal Computer: The Road from Leibniz to Turing» (2000), mencionó varios argumentos a favor de que las ideas de Turing fueron tomadas en cuenta por *von Neumann al diseñar una de las primeras arquitecturas de ordenadores electrónicos de manejo de símbolos discretos (EDVAC, _First Draft of a Report on the EDVAC_ [1945]).
   
   Véase:
-- Sipser, Michael. Introduction to the Theory of Computation. 3rd Ed, Course Technology Cengage Learning, 2012.
-- Turing, A. M. “On Computable Numbers, with an Application to the Entscheidungsproblem.” Proceedings of the London Mathematical Society, vol. s2-42, no. 1, 1937, pp. 230–65. DOI.org (Crossref), doi:10.1112/plms/s2-42.1.230.
+	- Sipser, Michael. Introduction to the Theory of Computation. 3rd Ed, Course Technology Cengage Learning, 2012.
+	- Turing, A. M. “On Computable Numbers, with an Application to the Entscheidungsproblem.” Proceedings of the London Mathematical Society, vol. s2-42, no. 1, 1937, pp. 230–65. DOI.org (Crossref), doi:10.1112/plms/s2-42.1.230.
