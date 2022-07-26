@@ -215,6 +215,7 @@
  ;; Enable all your properties to have corresponding pages
  :property-pages/enabled? true
  :feature/enable-journals? false
+ :default-home {:page "Diccionario de informática"}
 
  ;; Properties to exclude from having property pages
  ;; E.g. #{:duration :author}
