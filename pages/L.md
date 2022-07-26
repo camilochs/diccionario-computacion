@@ -6,6 +6,7 @@ query-properties:: [:page]
          [?p :block/name ?name]
 	 [(clojure.string/starts-with? ?name "l")]
      [(!= ?name "l")]
+     [(!= ?name "later")]
 	 ]
 }
 #+END_QUERY

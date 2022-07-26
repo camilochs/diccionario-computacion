@@ -6,6 +6,7 @@ query-properties:: [:page]
          [?p :block/name ?name]
 	 [(clojure.string/starts-with? ?name "n")]
      [(!= ?name "n")]
+     [(!= ?name "now")]
 	 ]
 }
 #+END_QUERY
