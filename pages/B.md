@@ -5,9 +5,11 @@ query-properties:: [:page]
          :where 
          [?p :block/name ?name]
 	 [(clojure.string/starts-with? ?name "b")]
-         
+         [(!= ?name "b")]
 	 ]
 }
 #+END_QUERY
 
+-
+-
 -
