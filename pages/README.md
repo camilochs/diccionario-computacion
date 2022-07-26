@@ -8,9 +8,14 @@
 	   :query [:find (pull ?p [*])
 	           :where
 	           [?p :block/name ?name]
-	       [(= (count)(= ?name "b") )]
+	       [(= (clojure.string/count?  ?name) 1 )]
 	  ]}
 	  #+END_QUERY
+	-
+	-
+	-
+	-
+	-
 	-
 	-
 	-
