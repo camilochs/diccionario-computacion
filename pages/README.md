@@ -69,21 +69,29 @@
   
   1.  Cada término se encuentra ordenado alfabéticamente; se presenta en negrita y con la primera letra en mayúscula. La definición viene dada después de signo «•».
   
+  
   2. Por la innegable influencia del inglés en la literatura de la computación es que, al lado de cada término, se encuentra entre paréntesis su traducción ---en cursiva---, por ejemplo: «**Sistemas distribuidos** (_Distribuited System_)».
+  
   
   3. Existen términos que no cuentan con una traducción arraigada al español; no obligaremos al lector a conocer un término en español en caso de no saberlo (pero si le indicaremos cuál es su traducción). Por ello, a un término en inglés agregaremos donde sea necesario la referencia a su traducción al español, en versalita y precedido del signo «$$\nearrow$$». Por ejemplo: «**Deadlock** $$\nearrow$$ Véase Bloqueo mutuo».
   
-  4. En otras circunstancias donde un término esté tan extendido en inglés y la traducción no tenga ni uso ni razón, entonces no añadiremos una referencia al término en español, aunque si estará su traducción. Para indicar esta excepción el término se encontrará en cursiva: «**_Quicksort_** (Ordenamiento rápido) • [...]».
+  
+  4. En otras circunstancias donde un término esté tan extendido en inglés y la traducción no tenga ni uso ni razón, entonces no añadiremos una referencia al término en español, aunque si estará su traducción. Para indicar esta 
+  excepción el término se encontrará en cursiva: «**_Quicksort_** (Ordenamiento rápido) • [...]».
+  
   
   5. Las abreviaciones o acrónimos de palabras en inglés se mantendrán y estarán con todas las letras en mayúsculas; además, se añadirá su traducción al español después del signo «/». Por ejemplo: «**JVM** (_Java Virtual Machine / Máquina virtual de Java_)».
   
+  
   6. En algunos casos donde la definición de un término contenga la referencia a otro término, este último estará precedido del signo «*» (solo en la primera aparición). Por ejemplo: «**Algoritmo** (_Algorithm_) • [...] secuencias de instrucciones que especifican un *programa [...]». Con ello se puede inferir que el diccionario tiene una definición de «programa». Revisar estos términos será un complemento para entender mejor el término actual.
-  <br />
-  8. Los términos que tengan acepciones aparecerán enumeradas. Por ejemplo: «**Base de datos**».
-  >
-  9. Las biografías comenzarán con el primer apellido y seguido por su nombre. Así, si buscamos por Alan Mathison Turing, debemos buscar por la letra «T».
-  <br />
-  10. Gran parte de las definiciones contienen referencias bibliográficas actualizadas, con el objetivo que pueda acceder a una mayor profundidad sobre el tema; y en caso de ser biografías, se nombraran las obras principales del autor.
-  <br />
-  11. Al final del libro agregaremos un listado de todos los términos del diccionario en inglés junto a su traducción al español. Para así, usted pueda buscar rápidamente la traducción al español de un término en inglés, en caso de encontrarse más familiarizado con este idioma.
+  
+  
+  7. Los términos que tengan acepciones aparecerán enumeradas. Por ejemplo: «**Base de datos**».
+  
+  
+  8. Las biografías comenzarán con el primer apellido y seguido por su nombre. Así, si buscamos por Alan Mathison Turing, debemos buscar por la letra «T».
+  
+  9. Gran parte de las definiciones contienen referencias bibliográficas actualizadas, con el objetivo que pueda acceder a una mayor profundidad sobre el tema; y en caso de ser biografías, se nombraran las obras principales del autor.
+  
+  10. Al final del libro agregaremos un listado de todos los términos del diccionario en inglés junto a su traducción al español. Para así, usted pueda buscar rápidamente la traducción al español de un término en inglés, en caso de encontrarse más familiarizado con este idioma.
 -
