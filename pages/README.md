@@ -37,7 +37,7 @@
   
   El área que cubre la computación es vasta y rica; y está compuesta por un corpus de conocimientos dividido en subáreas. De ahí que, a continuación definimos —brevemente— las cubiertas en este diccionario. Todas ellas han sido definidas previamente por ACM <sup><a name="acm">1</a></sup>, en su informe «Curricula 2013» (que presenta las recomendaciones para la enseñanza de la computación) <sup><a name="acm_curricula">2</a></sup>.
   
-  | ![Blank diagram - Copy of Page 10.png](../assets/Blank_diagram_-_Copy_of_Page_10_1658864199712_0.png) |
+  | ![Blank diagram - Copy of Page 10 (2).png](../assets/Blank_diagram_-_Copy_of_Page_10_(2)_1658864275866_0.png){:height 333, :width 684} |
   |:--:|
   | Figura 1 - Un octágono que muestra las diez subáreas tratadas en el diccionario según su nivel de importancia. El nodo central es CC que significa ciencia de la computación. |
 - 1. AL (Algoritmos y complejidad): Técnicas, análisis y complejidad de los algoritmos.
