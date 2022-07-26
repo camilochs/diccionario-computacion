@@ -1,3 +1,2 @@
 # F
 - [[función computable]]
-- #funcional
