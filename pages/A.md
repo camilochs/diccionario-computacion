@@ -4,17 +4,21 @@
 - [[Aplicación]]
 - [[ALGOL-60]]
 - query-properties:: [:page]
+  query-sort-by:: page
+  query-sort-desc:: false
   #+BEGIN_QUERY
   {:title "Todas las entradas que comienzan con A"
    :query [:find (pull ?p [*])
            :where 
            [?p :block/name ?name]
-  	 [(clojure.string/starts-with? ?name "a")]
            [ (> (count? ?name) 1) ]
+  	 [(clojure.string/starts-with? ?name "a")]
            
   	 ]
   }
   #+END_QUERY
+-
+-
 -
 -
 -
