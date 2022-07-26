@@ -73,5 +73,3 @@ query-properties:: [:page]
 -
 -
 -
--
--
