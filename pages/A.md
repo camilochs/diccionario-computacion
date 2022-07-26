@@ -10,7 +10,7 @@
            :where 
            [?p :block/name ?name]
            [(clojure.string/starts-with? ?name "a")]
-  [(> (count ?name) 1)]
+  [(> (count ?name) 1))]
   ]
   }
   #+END_QUERY
