@@ -1,5 +1,5 @@
 query-sort-by:: page
-query-sort-desc:: false
+query-sort-desc:: true
 query-properties:: [:page]
 #+BEGIN_QUERY
 {:title "Todas las entradas que comienzan con A"
