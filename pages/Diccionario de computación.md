@@ -9,6 +9,7 @@
 	- [[Máquina de Turing]]
 	- [[Sistemas distribuidos]]
 	- [[Algoritmo]]
+	- [[Lógica difusa]]
 	- [[Sistema operativo]]
 	- [[Base de datos]]
 # Índice
