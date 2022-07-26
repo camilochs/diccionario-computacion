@@ -1,4 +1,3 @@
-- [[Función computable]]
 - #+BEGIN_QUERY
   {:title "Todas las entradas que comienzan con F"
    :query [:find (pull ?p [*])
