@@ -12,10 +12,14 @@
            :where 
            [?p :block/name ?name]
   	     [(clojure.string/starts-with? ?name "a")]
-           [(if (= ?name "a") )]
+           [(> (count? ?name 3) )]
   	 ]
   }
   #+END_QUERY
+-
+-
+-
+-
 -
 -
 -
