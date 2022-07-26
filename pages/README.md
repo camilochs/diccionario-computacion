@@ -9,20 +9,19 @@
 	           :where 
 	           [?p :block/name ?name]
 	       [(=  ?name "a")]
-	  
 	       [(=  ?name "a")]	
 	       [(=  ?name "a")] 
 	       [(=  ?name "a")]
 	       [(=  ?name "a")]
-	  
-	       [(=  ?name "a")]}
 	       [(=  ?name "a")]
-	  
-	       [(=  ?name "a")]#
-	       [(=  ?name "a")]+
 	       [(=  ?name "a")]
+	       [(=  ?name "a")]
+	       [(=  ?name "a")]
+	- [(=  ?name "a")]
+	- ]}
+	- #+END_QUERY
 	-
-	- END_QUERY
+	-
 	-
 	-
 	-
