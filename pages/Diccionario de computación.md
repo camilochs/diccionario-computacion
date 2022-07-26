@@ -5,6 +5,7 @@
 - **Autor**: [Camilo Chacón Sartori](https://camilochs.github.io/web/)
 - **Ejemplos de términos definidos:**
 	- [[Hoare, Charles Antony Richard]]
+	- [[Bloqueo mutuo]]
 	- [[Máquina de Turing]]
 	- [[Sistemas distribuidos]]
 	- [[Algoritmo]]
