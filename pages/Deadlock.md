@@ -1,3 +1,1 @@
-# Deadlock
-
 - [[Bloqueo mutuo]]
