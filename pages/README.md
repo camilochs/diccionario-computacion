@@ -2,6 +2,17 @@
 - Un diccionario de computación en español. (En proceso.)
 - Autor: [Camilo Chacón Sartori](https://camilochs.github.io/web/)
 # Índice
+	- #+BEGIN_QUERY
+	  {:title "Todas las entradas que comienzan con Q"
+	   :query [:find (pull ?p [*])
+	           :where 
+	           [?p :block/name ?name]
+	       [(count ?name 1)]
+	  	 ]
+	  }
+	  #+END_QUERY
+	-
+	-
 	- ### [Mapa visual](https://hypernotes.zenkit.com/outline-graph/Oadml_oP0e/)
 	- <style>
 	   table {
