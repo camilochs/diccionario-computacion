@@ -7,6 +7,8 @@ query-properties:: [:page]
 	 [(clojure.string/starts-with? ?name "c")]
          [(!= ?name "c")]
 [(!= ?name "contents")]
+     [(!= ?name "card")]
+     [(!= ?name "canceled")]
 	 ]
 }
 #+END_QUERY

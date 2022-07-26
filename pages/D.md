@@ -7,6 +7,8 @@ query-properties:: [:page]
 	 [(clojure.string/starts-with? ?name "d")]
      [(!= ?name "d")]
   [(!= ?name "diccionario de computación")]
+     [(!= ?name "done")]
+     [(!= ?name "doing")]
 	 ]
 }
 #+END_QUERY
