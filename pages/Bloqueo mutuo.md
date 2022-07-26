@@ -4,4 +4,4 @@
 -
 - Para una visión histórica, véase:
 	- Coffman, E. G., et al. “System Deadlocks.” ACM Computing Surveys, vol. 3, no. 2, June 1971, pp. 67–78. DOI.org (Crossref), doi:10.1145/356586.356588.
-- ![Blank diagram - deadlock (1).png](../assets/Blank_diagram_-_deadlock_(1)_1658865654313_0.png)
+- ![deadlock.png](../assets/deadlock_1658865694433_0.png)
