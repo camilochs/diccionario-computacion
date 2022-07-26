@@ -1,12 +1,13 @@
 - # Diccionario de computación
 - Un diccionario de computación en español. (En proceso.)
 - Autor: [Camilo Chacón Sartori](https://camilochs.github.io/web/)
-- Ejemplo de términos:
+- Ejemplos de términos definidos:
 	- [[Hoare, Charles Antony Richard]]
 	- [[Máquina de Turing]]
+	- [[Sistemas distribuidos]]
 	- [[Algoritmo]]
 	- [[Sistema operativo]]
-	-
+	- [[Base de datos]]
 # Índice
 	- <style>
 	   table {
