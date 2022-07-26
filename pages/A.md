@@ -11,12 +11,12 @@
    :query [:find (pull ?p [*])
            :where 
            [?p :block/name ?name]
-           [  (= ?name "a") ]
   	 [(clojure.string/starts-with? ?name "a")]
            
   	 ]
   }
   #+END_QUERY
+-
 -
 -
 -
