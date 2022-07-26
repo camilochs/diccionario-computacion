@@ -9,3 +9,13 @@
 - [[Programación imperativa]]
 - [[Premio Turing]]
 - [[Proceso]]
+- #+BEGIN_QUERY
+  {:title "Todas las entradas que comienzan con A"
+   :query [:find (pull ?p [*])
+           :where 
+           [?p :block/name ?name]
+  	 [(clojure.string/starts-with? ?name "a")]
+       [(!= ?name "a")]
+  	 ]
+  }
+  #+END_QUERY

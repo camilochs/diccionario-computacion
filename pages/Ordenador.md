@@ -1,4 +1,2 @@
-# Ordenador
-
 - [[Computador]]
-- 
+-
