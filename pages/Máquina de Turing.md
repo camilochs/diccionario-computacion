@@ -2,7 +2,9 @@
   
   Al ser un modelo abstracto no tiene límites físicos. Es decir, cuenta con una cinta infinita que representa una memoria agrupada en celdas, donde la información se mantiene. A su vez, la máquina cuenta con un cabezal que puede leer y escribir en una celda, y que puede moverse de izquierda a derecha realizando operaciones de lectura o escritura según la tabla de instrucciones. Ideas tales como: programa almacenado (tabla de instrucciones) y memoria, son conceptos fundamentales hasta nuestros días.
   
-  A través de este trabajo, Turing estableció los límites de lo que es posible computar, o sea, los límites de lo que hoy en día conocemos como [[Algoritmo]]. Su demostración al problema Entscheidungsproblem fue negativa pues demostró que ningún algoritmo puede dar respuesta a ese problema.  [[Davis, Martin]], teórico de la computación, en su libro «The Universal Computer: The Road from Leibniz to Turing» (2000), mencionó varios argumentos a favor de que las ideas de Turing fueron tomadas en cuenta por *von Neumann al diseñar una de las primeras arquitecturas de ordenadores electrónicos de manejo de símbolos discretos (EDVAC, _First Draft of a Report on the EDVAC_ [1945]).
+  A través de este trabajo, Turing estableció los límites de lo que es posible computar, o sea, los límites de lo que hoy en día conocemos como [[Algoritmo]]. Su demostración al problema Entscheidungsproblem fue negativa pues demostró que ningún algoritmo puede dar respuesta a ese problema en todos los casos.
+-
+- [[Davis, Martin]], teórico de la computación, en su libro «The Universal Computer: The Road from Leibniz to Turing» (2000), mencionó varios argumentos a favor de que las ideas de Turing fueron tomadas en cuenta por *von Neumann al diseñar una de las primeras arquitecturas de ordenadores electrónicos de manejo de símbolos discretos (EDVAC, _First Draft of a Report on the EDVAC_ [1945]).
   
   Véase:
 	- Sipser, Michael. Introduction to the Theory of Computation. 3rd Ed, Course Technology Cengage Learning, 2012.
