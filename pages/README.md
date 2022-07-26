@@ -5,6 +5,8 @@
 	- [[Hoare, Charles Antony Richard]]
 	- [[Máquina de Turing]]
 	- [[Algoritmo]]
+	- [[Sistema operativo]]
+	-
 # Índice
 	- <style>
 	   table {
