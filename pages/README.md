@@ -37,16 +37,15 @@
   |:--:|
   | Figura 1 - Un octágono que muestra las diez subáreas tratadas en el diccionario según su nivel de importancia. El nodo central es CC que significa ciencia de la computación. |
 - 1. AL (Algoritmos y complejidad): Técnicas, análisis y complejidad de los algoritmos.
-- 2. AR (Arquitectura y organización): Representación y organización de los datos, a bajo nivel, en un ordenador.
-- 3.
-- 4. 
-  5. GI (Gestión de la información): Sistema de modelado y almacenamiento de datos (bases de datos).
-  6. SI (Sistemas inteligentes): Sistemas de optimización, probabilista y heurísticas, para resolver problemas complejos.
-  7. RC (Redes y comunicación): Comunicación entre ordenadores a través de la red, y cómo es tratada la información que es trasmitida.
-  8. SO (Sistemas operativos): Funcionamiento, organización y seguridad de los sistemas operativos.
-  9. PD (Computación paralela y distribuida): Estudio de sistemas que hacen uso de los recursos del cpu (múltiples núcleos) y que trabajan de manera distribuida.
-  10. LP (Lenguajes de programación): Sobre los lenguajes de programación existente, además del estudio de su diseño e implementación. 
-  11. IS (Ingeniería de software): Requerimientos, metodología, principios y evaluación de un proyecto de software.
+  2. AR (Arquitectura y organización): Representación y organización de los datos, a bajo nivel, en un ordenador.
+  3. (Estructuras discretas): Estructuras de información finitas. Estructuras de datos y conceptos desde las matemáticas discretas, fundamentales en la informática.
+  4. GI (Gestión de la información): Sistema de modelado y almacenamiento de datos (bases de datos).
+  5. SI (Sistemas inteligentes): Sistemas de optimización, probabilista y heurísticas, para resolver problemas complejos.
+  6. RC (Redes y comunicación): Comunicación entre ordenadores a través de la red, y cómo es tratada la información que es trasmitida.
+  7. SO (Sistemas operativos): Funcionamiento, organización y seguridad de los sistemas operativos.
+  8. PD (Computación paralela y distribuida): Estudio de sistemas que hacen uso de los recursos del cpu (múltiples núcleos) y que trabajan de manera distribuida.
+  9. LP (Lenguajes de programación): Sobre los lenguajes de programación existente, además del estudio de su diseño e implementación. 
+  10. IS (Ingeniería de software): Requerimientos, metodología, principios y evaluación de un proyecto de software.
   
   
   En la Figura 1 se puede ver un esquema general de estas subáreas según su nivel de importancia; a mayor nivel de importancia más términos existirán en este diccionario para esa subárea, lo mismo, en caso contrario. Así por ejemplo, el área de algoritmos y complejidad (AR) que es nuclear en la computación tiene una importancia alta; un caso contrario sería redes y comunicación (RC) que tiene menor importancia. Esta clasificación no es arbitraria. Nos basamos en la cantidad de horas recomendadas por ACM para todo el corpus de conocimiento de la computación ---las cuales son definidas por las tendencias actuales---. No obstante, es preciso decir que ello no es algo estático, por el contrario, a medida que la computación va progresando esto cambiaría en el futuro. Ya sea alterando la distribución de importancia, o, en cambio, añadiendo o eliminando subáreas.
