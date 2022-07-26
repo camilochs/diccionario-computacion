@@ -1,3 +1,1 @@
-# imperativo
-
 - [[Programación imperativa]]
