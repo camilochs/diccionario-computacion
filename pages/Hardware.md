@@ -1,2 +1,1 @@
-# hardware
-title:: Hardware
+-
