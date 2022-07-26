@@ -10,7 +10,7 @@ Un diccionario de computación en español.
 
 ## Introducción  
     
-No existe un diccionario de computación en español que defina de manera precisa y rigurosa los términos más usados en la actualidad. Por este motivo nos hemos puesto manos a la obra para que este proyecto sea lo más amplio y renovado posible, sin olvidar las limitaciones de páginas que nos da un libro.  
+No existe un diccionario de computación en español que defina de manera precisa y rigurosa los términos más usados en la actualidad. Por este motivo nos hemos puesto manos a la obra para que este proyecto sea lo más amplio y renovado posible, ~~sin olvidar las limitaciones de páginas que nos da un libro~~.  
 
 Un diccionario es por definición una obra *incompleta* porque cada cierto tiempo surgen nuevos términos y otros son enviados al baúl de los recuerdos. Pese a todo, su importancia sigue siendo relevante para comprender el significado de los conceptos que, en muchas ocasiones, usamos de manera inexacta y confusa. En particular, en la computación que vive en una constante evolución. Es, entonces, este diccionario un proyecto dinámico.  
 
