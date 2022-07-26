@@ -6,6 +6,7 @@ query-properties:: [:page]
          [?p :block/name ?name]
 	 [(clojure.string/starts-with? ?name "t")]
      [(!= ?name "t")]
+     [(!= ?name "todo")]
 	 ]
 }
 #+END_QUERY
