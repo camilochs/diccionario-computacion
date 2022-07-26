@@ -1,2 +1,1 @@
 -
-# Programación funcional
