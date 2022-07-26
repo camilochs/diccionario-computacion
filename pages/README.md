@@ -35,8 +35,7 @@
   
   |  ![Blank diagram - Copy of Page 10.png](../assets/Blank_diagram_-_Copy_of_Page_10_1658845548315_0.png) |
   |:--:|
-  
-  | <b> Figure 1 - Un octágono que muestra las diez subáreas tratadas en el diccionario según su nivel de importancia. Donde el nodo central es CC, que significa ciencia de la computación.</b> |
+  | <b> Figura 1 - Un octágono que muestra las diez subáreas tratadas en el diccionario según su nivel de importancia. El nodo central es CC que significa ciencia de la computación.</b> |
 -
 - 1. GI (Gestión de la información): Sistema de modelado y almacenamiento de datos (bases de datos).
   <br />
@@ -53,7 +52,7 @@
   7. IS (Ingeniería de software): Requerimientos, metodología, principios y evaluación de un proyecto de software.
   
   
-  En la figura {fig:areas} se puede ver un esquema general de estas subáreas según su nivel de importancia; a mayor nivel de importancia más términos existirán en este diccionario para esa subárea, lo mismo, en caso contrario. Así por ejemplo, el área de algoritmos y complejidad (AR) que es nuclear en la computación tiene una importancia alta; un caso contrario sería redes y comunicación (RC) que tiene menor importancia. Esta clasificación no es arbitraria. Nos basamos en la cantidad de horas recomendadas por ACM para todo el corpus de conocimiento de la computación ---las cuales son definidas por las tendencias actuales---. No obstante, es preciso decir que ello no es algo estático, por el contrario, a medida que la computación va progresando esto cambiaría en el futuro. Ya sea alterando la distribución de importancia, o, en cambio, añadiendo o eliminando subáreas.
+  En la Figura 1 se puede ver un esquema general de estas subáreas según su nivel de importancia; a mayor nivel de importancia más términos existirán en este diccionario para esa subárea, lo mismo, en caso contrario. Así por ejemplo, el área de algoritmos y complejidad (AR) que es nuclear en la computación tiene una importancia alta; un caso contrario sería redes y comunicación (RC) que tiene menor importancia. Esta clasificación no es arbitraria. Nos basamos en la cantidad de horas recomendadas por ACM para todo el corpus de conocimiento de la computación ---las cuales son definidas por las tendencias actuales---. No obstante, es preciso decir que ello no es algo estático, por el contrario, a medida que la computación va progresando esto cambiaría en el futuro. Ya sea alterando la distribución de importancia, o, en cambio, añadiendo o eliminando subáreas.
   
   Cabe señalar que hay subáreas que no fueron añadidas, por ejemplo: inteligencia artificial, ciberseguridad y computación cuántica. Las primeras dos porque son muy extensas y cada una de ellas, podría tener su propio diccionario; la última se encuentra todavía en desarrollo, aunque se han incorporado algunos términos en la subárea de AL (por ejemplo, los principales algoritmos cuánticos). Aunque ello no significa que no existan términos relacionados con esas tres áreas en el diccionario. En pos de clarificar, lo que queremos decir es que, la cantidad de términos será mucho menor que el corpus mencionado anteriormente.
   
