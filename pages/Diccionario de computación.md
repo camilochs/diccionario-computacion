@@ -40,11 +40,10 @@
   | ![Blank diagram.png](../assets/Blank_diagram_1658865364792_0.png) |
   |:--:|
   | Figura 1 - Un octágono que muestra las diez subáreas tratadas en el diccionario según su nivel de importancia. El nodo central es CC que significa ciencia de la computación. |
-- 1. AL (Algoritmos y complejidad): Técnicas, análisis y complejidad de los algoritmos.
+- - **AL** (Algoritmos y complejidad): Técnicas, análisis y complejidad de los algoritmos.
+  2. **AR** (Arquitectura y organización): Representación y organización de los datos, a bajo nivel, en un ordenador.
   
-  2. AR (Arquitectura y organización): Representación y organización de los datos, a bajo nivel, en un ordenador.
-  
-  3. (Estructuras discretas): Estructuras de información finitas. Estructuras de datos y conceptos desde las matemáticas discretas, fundamentales en la informática.
+  3.  **ED** (Estructuras discretas): Estructuras de información finitas. Estructuras de datos y conceptos desde las matemáticas discretas, fundamentales en la informática.
   
   4. GI (Gestión de la información): Sistema de modelado y almacenamiento de datos (bases de datos).
   5. SI (Sistemas inteligentes): Sistemas de optimización, probabilista y heurísticas, para resolver problemas complejos.
