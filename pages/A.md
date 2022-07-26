@@ -12,11 +12,12 @@
            :where 
            [?p :block/name ?name]
   	     [(clojure.string/starts-with? ?name "a")]
-       [(> (count? ?name) 1 )]
-           
+           [(not)]
   	 ]
   }
   #+END_QUERY
+-
+-
 -
 -
 -
