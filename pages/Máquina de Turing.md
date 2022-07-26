@@ -1,4 +1,3 @@
-# Máquina de Turing
 - (_Máquina de Turing / Turing Machine_) $$\bullet$$ Es un [[Modelo de computación]] que permite definir lo qué es la computación de manera abstracta. Fue presentado por [[Turing, Alan]] en el artículo _On Computable Numbers, with an Application to the Entscheidungsproblem_ con el nombre de _a-machines_ (_Automatic Machines_) en 1936. El modelo permite manipular una cinta compuesta de finitos símbolos que siguen una tabla de instrucciones. 
   
   Al ser un modelo abstracto no tiene límites físicos. Es decir, cuenta con una cinta infinita que representa una memoria agrupada en celdas, donde la información se mantiene. A su vez, la máquina cuenta con un cabezal que puede leer y escribir en una celda, y que puede moverse de izquierda a derecha realizando operaciones de lectura o escritura según la tabla de instrucciones. Ideas tales como programa almacenado (tabla de instrucciones) y memoria son conceptos fundamentales hasta nuestros días.
