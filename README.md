@@ -44,6 +44,7 @@ En suma, este diccionario puede servir de apoyo a académicos que dictan cursos 
 
 
 <sup>[1](#acm)  _Association for Computing Machinery_, la organización más importante de la computación a nivel mundial.</sup>
+</br>
 <sup>[2](#acm_curricua)  https://dl.acm.org/doi/book/10.1145/2534860.</sup>
 
 
