@@ -3,14 +3,27 @@
 - Autor: [Camilo Chacón Sartori](https://camilochs.github.io/web/)
 # Índice
 	- #+BEGIN_QUERY
+	  query-properties:: [:page]
 	  {:title "Todas las entradas que comienzan con Q"
 	   :query [:find (pull ?p [*])
 	           :where 
 	           [?p :block/name ?name]
-	       [(= (len? ?name 1))]
-	  	 ]
-	  }
-	  #+END_QUERY
+	       [(=  ?name "a")]
+	  
+	       [(=  ?name "a")]	
+	       [(=  ?name "a")] 
+	       [(=  ?name "a")]
+	       [(=  ?name "a")]
+	  
+	       [(=  ?name "a")]}
+	       [(=  ?name "a")]
+	  
+	       [(=  ?name "a")]#
+	       [(=  ?name "a")]+
+	       [(=  ?name "a")]
+	-
+	- END_QUERY
+	-
 	-
 	-
 	-
