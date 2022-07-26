@@ -12,6 +12,7 @@
            :where 
            [?p :block/name ?name]
   	 [(clojure.string/starts-with? ?name "a")]
+       [(not )]
            
   	 ]
   }
