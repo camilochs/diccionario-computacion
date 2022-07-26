@@ -216,6 +216,7 @@
  :property-pages/enabled? true
  :feature/enable-journals? false
  :default-home {:page "Diccionario de informática"}
+ :publishing/all-pages-public? true
 
  ;; Properties to exclude from having property pages
  ;; E.g. #{:duration :author}
