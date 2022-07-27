@@ -60,8 +60,8 @@
 - Igualmente, cuando decidimos comenzar con el diccionario nos pusimos como misión llenar un vació en los aspectos históricos de la computación, sobre todo, teniendo en cuenta que no son cuestiones que se explican con la profundidad necesaria en la universidad. Así pues, hemos agregado la biografías de hombres y mujeres que han sido un aporte indispensable a la computación. Esperamos que ello le enriquezca aún más la lectura de esta obra.
 -
 - En suma, este diccionario puede servir de apoyo a académicos que dictan cursos sobre diversas temáticas dentro de la computación; también para desarrolladores de software que quieran conocer definiciones precisas a algunos términos que, desconocen o tienen una vaga idea de qué trata; y, a personas con inclinaciones históricas, que aspiren a conocer a las personas que dieron forma a esta área. No obstante, puede ser de suma utilidad a cualquier persona curiosa que quiera penetrar el mundo de la computación.
-  
-  <sup>[1](#acm)  Association for Computing Machinery, la organización más importante de la computación a nivel mundial.</sup>
+-
+- <sup>[1](#acm)  Association for Computing Machinery, la organización más importante de la computación a nivel mundial.</sup>
   <sup>[2](#acm_curricua)  https://dl.acm.org/doi/book/10.1145/2534860.</sup>
 - # Advertencia sobre el uso
 - 1. Cada término se encuentra ordenado alfabéticamente; se presenta en negrita y con la primera letra en mayúscula. La definición viene dada después de signo «•».
