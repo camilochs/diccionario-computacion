@@ -64,7 +64,6 @@
 - <sup>[1](#acm)  _Association for Computing Machinery_, la organización más importante de la computación a nivel mundial.</sup>
   <sup>[2](#acm_curricua)  https://dl.acm.org/doi/book/10.1145/2534860.</sup>
 - # Advertencia sobre el uso
--
 - 1. Cada término se encuentra ordenado alfabéticamente; se presenta en negrita y con la primera letra en mayúscula. La definición viene dada después de signo «•».
 - 2. Por la innegable influencia del inglés en la literatura de la computación es que, al lado de cada término, se encuentra entre paréntesis su traducción —en cursiva—, por ejemplo: «**Sistemas distribuidos** (_Distribuited System_)».
 - 3. Existen términos que no cuentan con una traducción arraigada al español; no obligaremos al lector a conocer un término en español en caso de no saberlo (pero si le indicaremos cuál es su traducción). Por ello, a un término en inglés agregaremos donde sea necesario la referencia a su traducción al español, en versalita y precedido del signo «$\nearrow$». Por ejemplo: «**Deadlock** $\nearrow$ Véase Bloqueo mutuo».
