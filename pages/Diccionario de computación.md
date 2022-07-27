@@ -63,7 +63,6 @@
 -
 - <sup>[1](#acm)  _Association for Computing Machinery_, la organización más importante de la computación a nivel mundial.</sup>
   <sup>[2](#acm_curricua)  https://dl.acm.org/doi/book/10.1145/2534860.</sup>
-- ---
 - # Advertencia sobre el uso
 -
 - 1. Cada término se encuentra ordenado alfabéticamente; se presenta en negrita y con la primera letra en mayúscula. La definición viene dada después de signo «•».
@@ -75,4 +74,4 @@
 - 7. Los términos que tengan acepciones aparecerán enumeradas. Por ejemplo: «**Base de datos**».
 - 8. Las biografías comenzarán con el primer apellido y seguido por su nombre. Así, si buscamos por Alan Mathison Turing, debemos buscar por la letra «T».
 - 9. Gran parte de las definiciones contienen referencias bibliográficas actualizadas, con el objetivo que pueda acceder a una mayor profundidad sobre el tema; y en caso de ser biografías, se nombraran las obras principales del autor.
-- 10Al final del libro agregaremos un listado de todos los términos del diccionario en inglés junto a su traducción al español. Para así, usted pueda buscar rápidamente la traducción al español de un término en inglés, en caso de encontrarse más familiarizado con este idioma.
+- 10. Al final del libro agregaremos un listado de todos los términos del diccionario en inglés junto a su traducción al español. Para así, usted pueda buscar rápidamente la traducción al español de un término en inglés, en caso de encontrarse más familiarizado con este idioma.
